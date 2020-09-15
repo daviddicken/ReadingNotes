@@ -14,7 +14,7 @@ A) import java.util.Calendar;
 
 Q) Where does your import statements go?
 
-A) Very begening of your code.
+A) Very begining of your code.
 
 Q) import java.util.* 
 will import java.util and all of it's sub-packages.

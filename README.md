@@ -1,6 +1,12 @@
-# 401 ReadingNotes
+# ReadingNotes
+## 401 - C#
+### C# Table of contents
 
-### Table of Contents
+
+
+-------------------------------------
+## 401 - Java
+### Java Table of Contents
 * [Read02](read02.md)
 * [Read03](read03.md)
 * [Read04](read04.md)
